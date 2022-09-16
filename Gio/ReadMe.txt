@@ -1,4 +1,4 @@
-Documentation was structured so that someone new to C# can understand it, as future parties involved might not be too experienced with code.
+Documentation was structured so that someone new to C# can understand it, as future parties involved might not be too experienced with code. Everything was made in Unity's engine and C# scripting.
 
 All code and assets in Gio folder were made by Giovanni Joel Zavalza, except Crosshair Prefab but I don't know where it belongs so I'm leaving it there
 Most images and sprites were created using https://www.craiyon.com/, formerly known as DALL-E mini. Rest were photos taken by me.
